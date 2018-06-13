@@ -1,0 +1,4 @@
+(wgrep
+ :fetcher github
+ :repo "entertainyou/wgrep"
+ :files ("wgrep.el"))
